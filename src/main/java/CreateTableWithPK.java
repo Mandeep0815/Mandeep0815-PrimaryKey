@@ -41,7 +41,9 @@ import java.sql.Statement;
  *      Additional reference material if needed: https://www.w3schools.com/sql/sql_primarykey.asp
  */
 public class CreateTableWithPK {
-
+     public static void main(String[] args) {
+        
+     }
     /**
      *      song table
      *      |   id  |      title        |        artist         |
